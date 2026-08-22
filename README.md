@@ -2,7 +2,7 @@
 GlobeTrotter Hackathon Problem
 Globe Trotter: Personalized Travel Planning
 🎯 Project Overview & Problem Statement
-Globe Trotter is an end-to-end travel planning application designed to simplify complex, multi-city journeys. Based on the requirements in the "GlobeTrotter.pdf" document, the core problem statement challenges developers to build a responsive, user-centric platform that empowers travelers to organize customized trips, stay within budget, and gain full visibility of their itineraries. The ultimate vision is to make travel planning as collaborative and exciting as the trip itself. 
+Globe Trotter is an end-to-end travel planning application designed to simplify complex, multi-city journeys. The ultimate vision is to make travel planning as collaborative and exciting as the trip itself. 
 
 Core Capabilities
 To solve the complexities of modern travel planning, the application must include several essential functionalities:
